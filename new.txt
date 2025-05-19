@@ -1,117 +1,39 @@
-{\rtf1\ansi\ansicpg950\cocoartf2821
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fswiss\fcharset0 Helvetica-Oblique;
-}
-{\colortbl;\red255\green255\blue255;\red19\green21\blue28;\red244\green246\blue245;\red50\green56\blue72;
-\red71\green79\blue92;\red119\green129\blue135;\red10\green89\blue198;\red255\green255\blue255;\red234\green104\blue108;
-\red237\green175\blue106;\red220\green222\blue123;\red188\green222\blue123;\red126\green224\blue140;\red0\green0\blue0;
-\red119\green129\blue135;}
-{\*\expandedcolortbl;;\cssrgb\c9412\c10980\c14510;\cssrgb\c96471\c97255\c96863;\cssrgb\c25490\c28627\c35294;
-\cssrgb\c34902\c38431\c43529;\cssrgb\c54118\c57647\c60000\c25098;\cssrgb\c0\c43922\c81961;\cssrgb\c100000\c100000\c100000;\cssrgb\c94118\c49804\c49804;
-\cssrgb\c94902\c73725\c49020;\cssrgb\c89020\c88627\c55294;\cssrgb\c78039\c88627\c55294;\cssrgb\c55294\c89020\c61569;\cssrgb\c0\c0\c0\c84706;
-\cssrgb\c54118\c57647\c60000\c14902;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww44300\viewh24900\viewkind0
-\deftab720
-\pard\pardeftab720\sa240\partightenfactor0
+Final Destination: Bloodlines Review
+Dying. Laughing.
 
-\f0\b\fs96 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Final Destination: Bloodlines Review\cb1 \
-\pard\pardeftab720\partightenfactor0
 
-\f1\b0\fs44 \AppleTypeServices\AppleTypeServicesF65539 \cf4 \cb3 \strokec4 Dying. Laughing.\cb1 \
-\pard\pardeftab720\partightenfactor0
+BY TOM JORGENSEN
 
-\fs32 \AppleTypeServices \cf2 \strokec2 \
-\pard\pardeftab720\partightenfactor0
-\cf5 \strokec5 \
-\pard\pardeftab720\partightenfactor0
+POSTED: MAY 14, 2025 12:00 AM
 
-\f0\b\fs22 \AppleTypeServices\AppleTypeServicesF65539 \cf5 \cb3 BY\'a0{\field{\*\fldinst{HYPERLINK "https://www.ign.com/person/tomjorgensen"}}{\fldrslt \ul TOM JORGENSEN}}\cb1 \
-\pard\pardeftab720\partightenfactor0
 
-\f1\b0\fs32 \AppleTypeServices \cf5 \cb6 \
-\pard\pardeftab720\partightenfactor0
+Final Destination: Bloodlines opens in theaters Friday, May 16.
 
-\f0\b\fs22 \AppleTypeServices\AppleTypeServicesF65539 \cf5 \cb3 POSTED:\'a0MAY 14, 2025 12:00 AM\cb1 \
-\pard\pardeftab720\partightenfactor0
 
-\f1\b0\fs32 \AppleTypeServices \cf5 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \strokec2 \
-\pard\pardeftab720\sa240\partightenfactor0
+Final Destination: Bloodlines is late to the party. Its predecessor, Final Destination 5, was released 14 years ago – a veritable eon in filmgoing terms, especially when you consider it was shot and released in 3D. Body-count horror still has its audience, but it hasn’t been the genre’s bread and butter in a very long time. It must also be said that Bloodlines isn’t even 2025’s first horror movie about the disembodied specter of death creating cartoonishly brutal tableaux of murder: Osgood Perkins’ The Monkey both excelled in and elevated that space. But as it turns out, Bloodlines is only late because it was stopping at the store to pick up beer and fireworks, and boy, did it come ready to irresponsibly mix those two things. From the moment it kicks the door down with its stellar opening sequence, the newest addition to the Final Destination family maintains a laser focus on making sure everyone goes home with good stories to tell.
+There’s a real sense of homecoming in Bloodlines’ extended 1960s-set intro, which follows lovebirds Iris and Paul on the way to the top of the Skyview (basically the Space Needle) for a night out. Fate pulls Iris’ attention to seemingly disconnected images throughout the evening: an over-crowded elevator, a creepy problem child in a bowtie, a cook working with an open flame, a glass dance floor suspended hundreds of feet in the air. Co-directors Adam Stein and Zach Lipovsky use Iris’ growing paranoia to set the stage for disaster right out in the open: Each domino they line up is highlighted with such tongue-in-cheek attention that by the time the band’s playing the Isley Brothers’ “Shout” and all those dominos start to fall, it’s clear that Bloodlines is going to be leaning into comedy harder than any Final Destination before it. It’s a tonal shift that pays off spectacularly with clear reverence not just for the deathtraps at the franchise’s heart, but for the way the component parts of those traps fit together and build off each other in increasingly ridiculous ways.
 
-\f2\i\fs34 \cf2 \cb3 Final Destination: Bloodlines opens in theaters Friday, May 16.
-\f1\i0 \cb1 \
-\pard\pardeftab720\sa340\partightenfactor0
-\cf2 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\pard\pardeftab720\sa240\partightenfactor0
-\cf2 \cb3 Final Destination: Bloodlines is late to the party. Its predecessor,\'a0{\field{\*\fldinst{HYPERLINK "https://www.ign.com/movies/final-destination-5"}}{\fldrslt \cf7 \ul \ulc7 \strokec7 Final Destination 5}}, was released 14 years ago \'96 a veritable eon in filmgoing terms, especially when you consider it was shot and released in 3D. Body-count horror still has its audience, but it hasn\'92t been the genre\'92s bread and butter in a very long time. It must also be said that Bloodlines isn\'92t even 2025\'92s first horror movie about the disembodied specter of death creating cartoonishly brutal tableaux of murder: Osgood Perkins\'92\'a0{\field{\*\fldinst{HYPERLINK "https://www.ign.com/articles/the-monkey-review-oz-perkins-stephen-king"}}{\fldrslt \cf7 \ul \ulc7 \strokec7 The Monkey}}\'a0both excelled in and elevated that space. But as it turns out, Bloodlines is only late because it was stopping at the store to pick up beer and fireworks, and boy, did it come ready to irresponsibly mix those two things. From the moment it kicks the door down with its stellar opening sequence, the newest addition to the Final Destination family maintains a laser focus on making sure everyone goes home with good stories to tell.\cb1 \
-\cb3 There\'92s a real sense of homecoming in Bloodlines\'92 extended 1960s-set intro, which follows lovebirds Iris and Paul on the way to the top of the Skyview (basically the Space Needle) for a night out. Fate pulls Iris\'92 attention to seemingly disconnected images throughout the evening: an over-crowded elevator, a creepy problem child in a bowtie, a cook working with an open flame, a glass dance floor suspended hundreds of feet in the air. Co-directors Adam Stein and Zach Lipovsky use Iris\'92 growing paranoia to set the stage for disaster right out in the open: Each domino they line up is highlighted with such tongue-in-cheek attention that by the time the band\'92s playing the Isley Brothers\'92 \'93Shout\'94 and all those dominos start to fall, it\'92s clear that Bloodlines is going to be leaning into comedy harder than any Final Destination before it. It\'92s a tonal shift that pays off spectacularly with clear reverence not just for the deathtraps at the franchise\'92s heart, but for the way the component parts of those traps fit together and build off each other in increasingly ridiculous ways.\cb1 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-\
-\pard\pardeftab720\qc\partightenfactor0
 
-\f0\b\fs28 \AppleTypeServices\AppleTypeServicesF65539 \cf8 \cb2 \strokec8 Contribute to This List\
-\pard\pardeftab720\partightenfactor0
 
-\f1\b0\fs34 \AppleTypeServices \cf2 \cb1 \strokec2 \
-\pard\pardeftab720\partightenfactor0
+Contribute to This List
 
-\f0\b\fs36 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb8 Rank the Final Destination movies
-\fs32 \AppleTypeServices \cb1 \
-\pard\pardeftab720\qc\partightenfactor0
-\cf2 \
-\pard\pardeftab720\partightenfactor0
+Rank the Final Destination movies
 
-\fs44 \cf2 \cb9 S
-\fs22 \AppleTypeServices\AppleTypeServicesF65539 \cb8 FINAL DESTINATION
-\fs44 \AppleTypeServices \cb10 A
-\fs22 \AppleTypeServices\AppleTypeServicesF65539 \cb8 FINAL DESTINATION 2FINAL DESTINATION 5
-\fs44 \AppleTypeServices \cb11 B
-\fs22 \AppleTypeServices\AppleTypeServicesF65539 \cb8 FINAL DESTINATION 3
-\fs44 \AppleTypeServices \cb12 C\cb13 D
-\fs22 \AppleTypeServices\AppleTypeServicesF65539 \cb8 THE FINAL DESTINATION
-\fs18 \AppleTypeServices\AppleTypeServicesF65539 \cf5 \cb1 \strokec5 \
-\pard\pardeftab720\partightenfactor0
-\cf5 \cb8 THIS LIST IS THE AVERAGE OF\'a048 CONTRIBUTIONS\cb1 \
-\pard\pardeftab720\partightenfactor0
+SFINAL DESTINATIONAFINAL DESTINATION 2FINAL DESTINATION 5BFINAL DESTINATION 3CDTHE FINAL DESTINATION
+THIS LIST IS THE AVERAGE OF 48 CONTRIBUTIONS
 
-\f1\b0\fs34 \AppleTypeServices \cf2 \strokec2 \
-\pard\pardeftab720\sa240\partightenfactor0
-\cf2 \cb3 Death\'92s scythe never falls quite the way you expect it to in Bloodlines, with pieces of the killer puzzles coming into play in consistently surprising ways. It\'92s a shell game that Bloodlines plays not just with its causes of death, but with who\'92s actually the target of any given trap \'96 and these carefully constructed moments rarely miss. By the end of the prologue, Stein and Lipovsky have treated us to an entire movie\'92s worth of over-the-top kills, and we haven\'92t even met our lead character yet. The directors are singing from the Sam Raimi hymnbook, with a kinetic style that succeeds on both the horror and comedy fronts and comes across clearly in the cinematography and editing. Special mention has to go to the effects here, which blend practical and VFX elements extremely well as bodies are slashed, smashed, smushed, and stuffed. Some of these sequences feel a little less effective than the others \'96 one at a tattoo parlor comes to mind, but even that one sets up a pretty hilarious joke for the next scene. As if acknowledging that we\'92re all running on borrowed time (horrifying accidental deaths or no), Bloodlines wastes only a few of the precious 110 minutes we spend with it.\cb1 \
-\pard\pardeftab720\qc\partightenfactor0
-\cf2 \
-\pard\pardeftab720\sa240\partightenfactor0
-\cf2 \cb3 The tragedy at the Skyview spins out into the present day, as college student Stef Lewis (Kaitlyn Santa Juana) is plagued with visions of the event so disruptive, she\'92s been placed on academic probation. Final Destination movies have always been built around premonitions of tragedies which have yet to occur. By shaking up the formula with Stef investigating her relationship to a tragedy that happened before she was born, Bloodlines gets off to a pretty intriguing start. That intrigue doesn\'92t last long, though: The movie rushes to reveal why Stef is having these visions and how the Skyview tragedy connects to deaths happening in the present day.\cb1 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\pard\pardeftab720\sa240\partightenfactor0
+Death’s scythe never falls quite the way you expect it to in Bloodlines, with pieces of the killer puzzles coming into play in consistently surprising ways. It’s a shell game that Bloodlines plays not just with its causes of death, but with who’s actually the target of any given trap – and these carefully constructed moments rarely miss. By the end of the prologue, Stein and Lipovsky have treated us to an entire movie’s worth of over-the-top kills, and we haven’t even met our lead character yet. The directors are singing from the Sam Raimi hymnbook, with a kinetic style that succeeds on both the horror and comedy fronts and comes across clearly in the cinematography and editing. Special mention has to go to the effects here, which blend practical and VFX elements extremely well as bodies are slashed, smashed, smushed, and stuffed. Some of these sequences feel a little less effective than the others – one at a tattoo parlor comes to mind, but even that one sets up a pretty hilarious joke for the next scene. As if acknowledging that we’re all running on borrowed time (horrifying accidental deaths or no), Bloodlines wastes only a few of the precious 110 minutes we spend with it.
 
-\f0\b\fs36 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 Final Destination: Bloodline Gallery\cb1 \
-\pard\pardeftab720\qc\partightenfactor0
+The tragedy at the Skyview spins out into the present day, as college student Stef Lewis (Kaitlyn Santa Juana) is plagued with visions of the event so disruptive, she’s been placed on academic probation. Final Destination movies have always been built around premonitions of tragedies which have yet to occur. By shaking up the formula with Stef investigating her relationship to a tragedy that happened before she was born, Bloodlines gets off to a pretty intriguing start. That intrigue doesn’t last long, though: The movie rushes to reveal why Stef is having these visions and how the Skyview tragedy connects to deaths happening in the present day.
 
-\f1\b0\fs34 \AppleTypeServices \cf14 \cb15 \strokec14 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb1 \strokec2 \
-\
-\pard\pardeftab720\sa240\partightenfactor0
-\cf2 \cb3 Stef\'92s friends and family, who make up the majority of the supporting cast, aren\'92t the types to slow down for serious and broody monologues about mortality. They\'92re a little less complicated than that. A little\'85 stupid. Lots of these characters are dumber than a box of rocks, but here, that feels appropriate given that they need to be\'a0
-\f2\i just
-\f1\i0 \'a0oblivious enough to not see the sword of Damocles hanging over their heads. Stef\'92s extended family are like the\'a0{\field{\*\fldinst{HYPERLINK "https://www.ign.com/movies/the-avengers"}}{\fldrslt \cf7 \ul \ulc7 \strokec7 Avengers}}\'a0of teen horror movie archetypes, and they know it: They\'92re in close conversation with the audience\'92s knowledge of not just the horror genre, but of the established rules of Final Destination. By comparison, Stef\'92s growing ability to see the code of this murder Matrix sets up some great moments \'96 but outside of that, her characterization is rather thin. Kaitlyn Santa Juana deserves credit for keeping Bloodlines emotionally grounded, even in the face of a superfluous subplot about Stef\'92s estranged mom that kicks off a little too late to have any real impact.\cb1 \
-\cb3 Bloodlines very wisely positions itself as an entry point for newcomers, which makes sense given how sparsely connected the first five Final Destination films are, but the movie does take care to give love to some of the franchise\'92s most memorable imagery \'96 references that are obvious, but unobtrusive to enjoying Bloodlines on its own terms. A little more effort is exerted to make space for\'a0{\field{\*\fldinst{HYPERLINK "https://www.ign.com/articles/tony-todd-voice-of-spider-man-2s-venom-among-many-other-roles-dies-at-69"}}{\fldrslt \cf7 \ul \ulc7 \strokec7 the late Tony Todd}}\'92s swan song as the ominous Bludworth. The horror icon usually stops by Final Destination movies to muse on the nature of death, but here in Bloodlines, that moment takes on powerful symbolism: Todd\'92s scene was clearly devised with the intention of giving him a chance to bid farewell to his most ardent fans. The gravity that he is famous for hits like a freight train here, helped enormously by some wonderful camerawork that often frames Todd as if he\'92s talking directly to the audience. It\'92s a powerful final bow which few in this space are afforded, and that fewer still deserve more.\cb1 \
-\pard\pardeftab720\qc\partightenfactor0
-\cf2 \
-\pard\pardeftab720\partightenfactor0
+Final Destination: Bloodline Gallery
 
-\fs32 \cf2 \
-\
-\pard\pardeftab720\sa240\partightenfactor0
 
-\f0\b\fs44 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 Verdict\cb1 \
-\pard\pardeftab720\sa240\partightenfactor0
 
-\f1\b0\fs34 \AppleTypeServices \cf2 \cb3 In Final Destination: Bloodlines, death is the life of the party. There\'92s little novelty to the boilerplate family trauma plot of this sixth Final Destination movie, but what its comedy-forward take on the franchise\'92s established formula lacks in thematic depth, it more than makes up for with delightful, well-designed kills and boundless gallows humor. A testament to the powerful, simple joy of a well-executed setup and payoff, Bloodlines\'92 lethal Rube Goldberg machines are tactile and satisfying, benefiting from a solid blend of goopy practical and visual effects. It\'92s a fantastic jumping-on point for new fans, but the Final Destination faithful are well taken care of with cheeky references to previous movies and a truly poignant farewell from one of the horror genre\'92s late kings, Tony Todd.\cb1 \
-}
+Stef’s friends and family, who make up the majority of the supporting cast, aren’t the types to slow down for serious and broody monologues about mortality. They’re a little less complicated than that. A little… stupid. Lots of these characters are dumber than a box of rocks, but here, that feels appropriate given that they need to be just oblivious enough to not see the sword of Damocles hanging over their heads. Stef’s extended family are like the Avengers of teen horror movie archetypes, and they know it: They’re in close conversation with the audience’s knowledge of not just the horror genre, but of the established rules of Final Destination. By comparison, Stef’s growing ability to see the code of this murder Matrix sets up some great moments – but outside of that, her characterization is rather thin. Kaitlyn Santa Juana deserves credit for keeping Bloodlines emotionally grounded, even in the face of a superfluous subplot about Stef’s estranged mom that kicks off a little too late to have any real impact.
+Bloodlines very wisely positions itself as an entry point for newcomers, which makes sense given how sparsely connected the first five Final Destination films are, but the movie does take care to give love to some of the franchise’s most memorable imagery – references that are obvious, but unobtrusive to enjoying Bloodlines on its own terms. A little more effort is exerted to make space for the late Tony Todd’s swan song as the ominous Bludworth. The horror icon usually stops by Final Destination movies to muse on the nature of death, but here in Bloodlines, that moment takes on powerful symbolism: Todd’s scene was clearly devised with the intention of giving him a chance to bid farewell to his most ardent fans. The gravity that he is famous for hits like a freight train here, helped enormously by some wonderful camerawork that often frames Todd as if he’s talking directly to the audience. It’s a powerful final bow which few in this space are afforded, and that fewer still deserve more.
+
+
+
+Verdict
+In Final Destination: Bloodlines, death is the life of the party. There’s little novelty to the boilerplate family trauma plot of this sixth Final Destination movie, but what its comedy-forward take on the franchise’s established formula lacks in thematic depth, it more than makes up for with delightful, well-designed kills and boundless gallows humor. A testament to the powerful, simple joy of a well-executed setup and payoff, Bloodlines’ lethal Rube Goldberg machines are tactile and satisfying, benefiting from a solid blend of goopy practical and visual effects. It’s a fantastic jumping-on point for new fans, but the Final Destination faithful are well taken care of with cheeky references to previous movies and a truly poignant farewell from one of the horror genre’s late kings, Tony Todd.
